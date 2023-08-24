@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "profile": "Executor",
+    "text": "Eu me sinto motivado por desafios e prazos apertados."
+  },
+  {
+    "id": 2,
+    "profile": "Executor",
+    "text": "Eu sou alguém que gosta de assumir riscos em meu trabalho."
+  },
+  {
+    "id": 3,
+    "profile": "Executor",
+    "text": "Eu tomo decisões rapidamente, mesmo sob pressão."
+  },
+  {
+    "id": 4,
+    "profile": "Executor",
+    "text": "Eu sou competitivo e gosto de superar metas."
+  },
+  {
+    "id": 5,
+    "profile": "Executor",
+    "text": "Eu sou autoconfiante em minhas habilidades."
+  },
+  {
+    "id": 6,
+    "profile": "Executor",
+    "text": "Eu prefiro agir do que ficar planejando por muito tempo."
+  },
+  {
+    "id": 7,
+    "profile": "Executor",
+    "text": "Eu gosto de liderar equipes em projetos importantes."
+  },
+  {
+    "id": 8,
+    "profile": "Executor",
+    "text": "Eu me sinto mais à vontade em ambientes de trabalho dinâmicos."
+  },
+  {
+    "id": 9,
+    "profile": "Executor",
+    "text": "Eu tenho um histórico de entrega consistente de resultados tangíveis."
+  },
+  {
+    "id": 10,
+    "profile": "Executor",
+    "text": "Eu sou conhecido por minha determinação em atingir objetivos."
+  },
+  {
+    "id": 11,
+    "profile": "Comunicador",
+    "text": "Eu me destaco em comunicação verbal e escrita."
+  },
+  {
+    "id": 12,
+    "profile": "Comunicador",
+    "text": "Eu sou bom em motivar equipes e criar um ambiente colaborativo."
+  },
+  {
+    "id": 13,
+    "profile": "Comunicador",
+    "text": "Eu me sinto à vontade ao falar em público e apresentar ideias."
+  },
+  {
+    "id": 14,
+    "profile": "Comunicador",
+    "text": "Eu lido bem com conflitos interpessoais."
+  },
+  {
+    "id": 15,
+    "profile": "Comunicador",
+    "text": "Eu valorizo o reconhecimento e a valorização do meu trabalho."
+  },
+  {
+    "id": 16,
+    "profile": "Comunicador",
+    "text": "Eu gosto de estabelecer conexões pessoais profundas com os outros."
+  },
+  {
+    "id": 17,
+    "profile": "Comunicador",
+    "text": "Eu sou conhecido por ser persuasivo e influente."
+  },
+  {
+    "id": 18,
+    "profile": "Comunicador",
+    "text": "Eu me sinto mais à vontade em ambientes sociais e de rede."
+  },
+  {
+    "id": 19,
+    "profile": "Comunicador",
+    "text": "Eu tenho uma abordagem empática para resolver problemas de equipe."
+  },
+  {
+    "id": 20,
+    "profile": "Comunicador",
+    "text": "Eu sou alguém que gosta de liderar iniciativas de comunicação."
+  },
+  {
+    "id": 21,
+    "profile": "Analista",
+    "text": "Eu valorizo a precisão e a exatidão em tudo o que faço."
+  },
+  {
+    "id": 22,
+    "profile": "Analista",
+    "text": "Eu me destaco em projetos que exigem pesquisa e análise aprofundada."
+  },
+  {
+    "id": 23,
+    "profile": "Analista",
+    "text": "Eu prefiro tomar decisões com base em dados e fatos verificáveis."
+  },
+  {
+    "id": 24,
+    "profile": "Analista",
+    "text": "Eu sou detalhista e minucioso em minha abordagem ao trabalho."
+  },
+  {
+    "id": 25,
+    "profile": "Analista",
+    "text": "Eu me sinto desconfortável com erros ou imprecisões em meu trabalho."
+  },
+  {
+    "id": 26,
+    "profile": "Analista",
+    "text": "Eu gosto de criar relatórios e análises detalhadas."
+  },
+  {
+    "id": 27,
+    "profile": "Analista",
+    "text": "Eu sou conhecido por minha capacidade de solucionar problemas complexos."
+  },
+  {
+    "id": 28,
+    "profile": "Analista",
+    "text": "Eu sou alguém que prioriza a lógica e a objetividade em minhas decisões."
+  },
+  {
+    "id": 29,
+    "profile": "Analista",
+    "text": "Eu tenho experiência em desenvolver estratégias de longo prazo."
+  },
+  {
+    "id": 30,
+    "profile": "Analista",
+    "text": "Eu sou bom em criar e seguir procedimentos e processos."
+  },
+  {
+    "id": 31,
+    "profile": "Planejador",
+    "text": "Eu me sinto mais confortável quando tenho um plano detalhado a seguir."
+  },
+  {
+    "id": 32,
+    "profile": "Planejador",
+    "text": "Eu sou habilidoso em planejar a longo prazo e criar estratégias."
+  },
+  {
+    "id": 33,
+    "profile": "Planejador",
+    "text": "Eu valorizo a previsibilidade e a estabilidade em minha carreira."
+  },
+  {
+    "id": 34,
+    "profile": "Planejador",
+    "text": "Eu lido bem com mudanças inesperadas no ambiente de trabalho."
+  },
+  {
+    "id": 35,
+    "profile": "Planejador",
+    "text": "Eu gosto de criar processos e procedimentos para otimizar o trabalho."
+  },
+  {
+    "id": 36,
+    "profile": "Planejador",
+    "text": "Eu sou alguém que gosta de estabelecer metas e prazos claros."
+  },
+  {
+    "id": 37,
+    "profile": "Planejador",
+    "text": "Eu me sinto à vontade ao desenvolver planos de negócios."
+  },
+  {
+    "id": 38,
+    "profile": "Planejador",
+    "text": "Eu sou conhecido por minha habilidade em gerenciar projetos complexos."
+  },
+  {
+    "id": 39,
+    "profile": "Planejador",
+    "text": "Eu priorizo a organização e a estrutura em todas as minhas atividades."
+  },
+  {
+    "id": 40,
+    "profile": "Planejador",
+    "text": "Eu tenho uma abordagem deliberada para tomar decisões importantes."
+  }
+]
