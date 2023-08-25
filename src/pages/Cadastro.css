@@ -1,0 +1,65 @@
+/* Cadastro.css */
+body {
+  font-family: "Roboto", sans-serif; /* Aplicando a fonte 'Roboto' */
+  background-color: #f0f0f0; /* Cor de fundo da página */
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.neumorphism-form {
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 15px #a3a3a3, -5px -5px 15px #ffffff;
+  max-width: 800px; /* Largura máxima do formulário */
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(
+    auto-fill,
+    minmax(300px, 1fr)
+  ); /* Colunas responsivas */
+  grid-gap: 20px; /* Espaçamento entre colunas */
+}
+
+.input-group {
+  display: flex;
+  flex-direction: column; /* Títulos acima dos inputs */
+}
+
+.input-group label {
+  font-weight: bold;
+}
+
+.input-group input {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #f0f0f0;
+  box-shadow: inset 5px 5px 5px #d9d9d9, inset -5px -5px 5px #ffffff;
+  font-size: 16px; /* Tamanho da fonte */
+}
+
+.button-container {
+  display: flex;
+  justify-content: space-between; /* Coloca os botões um ao lado do outro */
+}
+
+.neumorphism-button {
+  width: 150px; /* Largura de 150px */
+  padding: 10px 0;
+  border: none;
+  border-radius: 5px;
+  background-color: #3498db; /* Cor diferente (azul) */
+  box-shadow: 5px 5px 10px #a3a3a3, -5px -5px 10px #ffffff;
+  cursor: pointer;
+  font-size: 16px; /* Tamanho da fonte para os botões */
+  color: white; /* Cor do texto no botão */
+  transition: background-color 0.3s ease; /* Efeito de transição de cor */
+}
+
+.neumorphism-button:hover {
+  background-color: #2980b9; /* Cor diferente no hover (tom mais escuro de azul) */
+}
